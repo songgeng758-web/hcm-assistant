@@ -1,0 +1,19 @@
+/* 全局样式重置 */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body, #app {
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', PingFang SC, 
+               Hiragino Sans GB, 'Microsoft YaHei', Arial, sans-serif;
+  font-size: 14px;
+  color: #1f2937;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
